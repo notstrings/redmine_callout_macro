@@ -1,3 +1,7 @@
+勝手にRedmine6対応したものです
+
+動作確認：Redmine 6.0.5
+
 # Redmine Callout Macro Plugin
 
 This plugin adds Callouts(Hints, Custom Containers) to wiki formated fields. 
